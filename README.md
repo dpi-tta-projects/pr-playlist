@@ -9,4 +9,6 @@ This repository is an index of favorite songs. Add the name of your favorite son
 5. Commit with a message using the source control tab in your IDE, or in your terminal.  
 6. Push branch to your created branch (i.e git push origin 5-add-aldo-song)
 7. Go into VDCode and create the pull request
-8. Once completed, make sure to request at least 2 approvals before being merged. Do not commit directly to main!
+8. Once completed, make sure to request at least 2 approvals before being merged. 
+
+Do not commit directly to main!
