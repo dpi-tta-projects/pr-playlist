@@ -1,0 +1,11 @@
+{
+  "name": "playlist",
+  "version": "1.0.0",
+  "scripts": {
+    "format": "prettier --write '**/*.{html,css,js,json}'",
+    "check-format": "prettier --check '**/*.{html,css,js,json}'"
+  },
+  "devDependencies": {
+    "prettier": "^3.x.x"
+  }
+}
