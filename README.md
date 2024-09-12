@@ -12,3 +12,5 @@ This repository is an index of favorite songs. Add the name of your favorite son
 8. Once completed, make sure to request at least 2 approvals before being merged. 
 
 Do not commit directly to main!
+
+[Live Site](https://dpi-we.github.io/playlist/)
