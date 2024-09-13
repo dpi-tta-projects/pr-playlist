@@ -1,0 +1,31 @@
+.btn-liquid {
+  display: inline-block;
+  position: relative;
+  width: auto;
+  height: auto;
+  color: #ffffff;
+  text-decoration: none;
+  text-align: center;
+}
+
+.btn-liquid .inner {
+  position: relative;
+  padding: 15px;
+  z-index: 2;
+}
+
+.btn-primary {
+    position: relative;
+    z-index: 3;
+}
+
+.btn-liquid canvas {
+  position: absolute;
+  top: -55px;
+  right: -50px;
+  bottom: -50px;
+  left: -50px;
+
+  z-index: 1;
+}
+
