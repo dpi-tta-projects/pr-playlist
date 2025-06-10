@@ -14,3 +14,12 @@ This repository is an index of favorite songs. Add the name of your favorite son
 Do not commit directly to main!
 
 [Live Site](https://dpi-we.github.io/playlist/)
+
+## Favorite Songs
+
+### [Bella Rose]
+- **Song:** "A Different Age"
+- **Artist:** Current Joys  
+- **Link:** [Listen on Spotify](https://open.spotify.com/track/51NRDcy5WEdfda6HC09QaD?si=ecfb4e91e9be4857)
+
+---
