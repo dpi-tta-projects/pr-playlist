@@ -13,4 +13,4 @@ This repository is an index of favorite songs. Add the name of your favorite son
 
 Do not commit directly to main!
 
-[Live Site](https://dpi-we.github.io/playlist/)
+[Live Site](https://dpi-tta-projects.github.io/pr-playlist/)
